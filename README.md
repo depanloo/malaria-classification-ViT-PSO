@@ -2,6 +2,8 @@
 
 **Project Objective** 🔬
 
+![ViT Illustration](assets/vit.jfif)
+
 This project aims to build and optimize a deep learning model capable of classifying images of red blood cells as either **"Parasitized"** (infected with malaria) or **"Uninfected"**. The model employed is a **Vision Transformer (ViT)**, which is then further optimized using **Particle Swarm Optimization (PSO)** to find the best hyperparameter combination to achieve maximum classification performance.
 
 **Methodology** ⚙️
