@@ -8,8 +8,8 @@
 | **Task** | Binary image classification (medical imaging) |
 | **Type** | Individual project, for learning and research only, not a diagnostic tool |
 
-![ViT architecture](assets/vit.jfif)
-*Generic Vision Transformer diagram. Source: add here.*
+![ViT architecture](assets/vit.png)
+*Generic Vision Transformer diagram. Source: [Original ViT architecture (extracted from (Dosovitskiy et al., 2020))](https://arxiv.org/abs/2010.11929)*
 
 ---
 
